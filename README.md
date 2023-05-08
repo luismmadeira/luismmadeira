@@ -10,6 +10,7 @@ Engenheiro Civil
 <div>
 
 <img align="center" alt="luis-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center" alt="luis-sas" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170761.png"/>
 <img align="center" alt="luis-r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />     
 <img align="center" alt="luis-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="center" alt="luis-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
